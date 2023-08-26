@@ -1,6 +1,6 @@
 ### welsh-dragons
-#A Colab for ComfyUI and its manager with cloudflared
-###Just some notes for CoLab Newbies, like myself...
+# A Colab for ComfyUI and its manager with cloudflared
+### Just some notes for CoLab Newbies, like myself...
 
 I like to use a T4 with additional memory. That's 15Vram and 50ram. Lower ram will give OOM errors and force you into --HIGH_VRAM on startup. T4 with additional memory will start up with -- NORMAL_VRAM. Of course, this is slower than an A100 with 40vram, but cheaper. An A100 runs about 15 units/hour, my set-up at 2 units/hour. Of course, if you're just messing about you could not use a video card and that's really cheap while you set up your ComfyUI or something, then, terminate and "change run type" and Runtime > Run all to start a new session.
 
