@@ -9,10 +9,4 @@ It takes, maybe, 10 minutes to check for updates and get back to your ComfyUI wo
 
 You'll definitely need Colab Pro, at least, as these days there is no free SD on Colab. You'll likely go up to Colab Pro Plus, as you'll be using it often. As well, you'll need to rise up from the Free Google Drive, as those checkpoints are heavy, and there are lots to have fun with.
 
-I also have a ComfyUI instal on my local machine, I try to mirror with Google Drive. And when I'm doing a lot of reading, watching YouTubes to learn ComfyUI and SD, it's much cheaper to mess around here, then go up to Google Colab.
-
-# A simple installation to Kohya's regular interface
-https://github.com/stevehooker/welsh-dragons/blob/main/kohya_ss_colab_the_interface.ipynb
-
-It is a simple installation for the regular Kohya interface. Once there, via a gradio.live link, you have access to all: Dreambooth, LoRA, Textural Inversion, Finetuning.
-I've used the available A100s to make my own LoRAs. The 40Vram seems like a luxury and runs very, very quickly.
+I also have a ComfyUI install on my local machine, and I try to mirror it with Google Drive. And when I'm doing a lot of reading, watching YouTubes to learn ComfyUI and SD, it's much cheaper to mess around here, then go up to Google Colab.
